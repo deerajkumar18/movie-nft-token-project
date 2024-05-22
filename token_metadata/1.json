@@ -1,0 +1,12 @@
+{
+    "name": "Movie",
+    "description": "Movie ticket",
+    "image": "C:/Users/kkdee/Documents/movie-nft-token-project/assets/movie_poster.jpg",
+    "attributes": [
+      {
+        "trait_type": "hall name",
+        "value": "Audi1"
+      }
+    ]
+  }
+  
